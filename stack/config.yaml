@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: ja-jp
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: HighPonのブログ
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -26,7 +26,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2021
         customText:
 
     dateFormat:
@@ -35,7 +35,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 分散システムを学ぶ名古屋の大学生です
         avatar:
             local: true
             src: img/avatar.png
