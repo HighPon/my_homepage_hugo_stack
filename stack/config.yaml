@@ -1,4 +1,4 @@
-baseurl: https://highpon.com
+baseurl: https://www.highpon.com
 languageCode: ja-jp
 theme: hugo-theme-stack
 paginate: 5
@@ -23,7 +23,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: img/favicon.png
+    favicon: /img/favicon.png
 
     footer:
         since: 2021
@@ -37,7 +37,7 @@ params:
         subtitle: 分散システムを学ぶ名古屋の大学生です
         avatar:
             local: false
-            src: img/avatar.png
+            src: /img/avatar.png
 
     article:
         math: false
