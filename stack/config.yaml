@@ -36,7 +36,7 @@ params:
     sidebar:
         subtitle: 分散システムを学ぶ名古屋の大学生です
         avatar:
-            local: true
+            local: false
             src: img/avatar.png
 
     article:
