@@ -5,7 +5,7 @@ paginate: 5
 title: HighPonのブログ
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: https-highpon-com
 
 # GA Tracking ID
 googleAnalytics: G-ZKXLYLBBE2
