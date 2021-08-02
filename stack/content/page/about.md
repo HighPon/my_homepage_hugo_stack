@@ -1,5 +1,5 @@
 ---
-title: About
+title: HighPonについて
 date: '2021-07-18'
 aliases:
   - about-us

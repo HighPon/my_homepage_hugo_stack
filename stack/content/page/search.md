@@ -1,5 +1,5 @@
 ---
-title: "Search"
+title: "記事検索"
 slug: "search"
 layout: "search"
 outputs:
