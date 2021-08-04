@@ -1,7 +1,7 @@
 ---
 author: HighPon
 title: Nextcloudのhttps化
-date: 2021-07-18
+date: 2021-08-04
 description: 自宅のNextcloudに証明書を導入した話です
 categories: nginx
 ---
